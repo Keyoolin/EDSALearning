@@ -2,6 +2,8 @@ README.md
 setup.py
 mypackage/__init__.py
 mypackage/myModule.py
+mypackage/recursion.py
+mypackage/sorting.py
 mypackage.egg-info/PKG-INFO
 mypackage.egg-info/SOURCES.txt
 mypackage.egg-info/dependency_links.txt
