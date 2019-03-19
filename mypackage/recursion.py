@@ -1,4 +1,5 @@
 def sum_array(array):
+    import numpy
     if len(array) == 1:
         return array[0]
     else:
