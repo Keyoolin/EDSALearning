@@ -2,12 +2,12 @@ def sum_array(array):
     if len(array) == 1:
         return array[0]
     else:
-        array = np.append(array[:-2],array[-1] + array[-2])
+        array = numpy.append(array[:-2],array[-1] + array[-2])
         return sum_array(array)
 
 def fibonacci(n):
     if n<=0:
-        return None
+        return 0
     elif n<=2:
         return 1
     else:
