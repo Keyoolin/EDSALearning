@@ -54,4 +54,3 @@ def quick_sort(items):
             new_list = new_list + [items[i]]
 
     return quick_sort(new_list[:count])+[pivot]+quick_sort(new_list[count+1:])
-    
