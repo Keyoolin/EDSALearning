@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/Keyoolin/<package-name>
+Author: <Keyoolin Padayachee>
+Author-email: <Keyoolin.Padayachee@gmail.com>
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
